@@ -37,3 +37,11 @@ filename = "testfile.txt"
 print("MD5:", hash_file(filename, 'md5'))
 print("SHA-1:", hash_file(filename, 'sha1'))
 print("SHA-256:", hash_file(filename, 'sha256'))
+
+## Output
+
+testfile.txt created successfully.
+MD5: ff98b859ceeb23ab7a7f066b7d85a2e6
+SHA-1: 68dccb6eefdefb34d13b9ab813e5ea34332e88af
+SHA-256: 9f29ff7de51a2c57021d365b07de0fc5dc90cec45e0c811bfee841cd31785ae9
+
