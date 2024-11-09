@@ -5,7 +5,7 @@ This Python script calculates the hash value (MD5, SHA-1, or SHA-256) of a given
 
 ## How to Use
 
-1. Save the script to a file, for example, `hash_file.py`.
+1. Save the script to a file, for example, `filehash_gen.py`.
 2. Ensure you have a file you want to hash, e.g., `testfile.txt`.
 
 ### Usage Example
